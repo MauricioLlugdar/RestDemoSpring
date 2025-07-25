@@ -1,13 +1,13 @@
-package com.maullu.maullu;
+package com.maullu.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MaulluApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MaulluApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
